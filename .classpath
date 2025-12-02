@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/commons-lang3-3.14.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/javaparser-core-3.25.5.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/javaparser-symbol-solver-core-3.25.5.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/junit-jupiter-api-5.11.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/junit-platform-commons-1.11.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/junit-platform-engine-1.11.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/junit-platform-launcher-1.11.0.jar"/>
+	<classpathentry kind="lib" path="webapp/WEB-INF/lib/javaee-api-7.0.jar"/>
+	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
+</classpath>
