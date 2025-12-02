@@ -280,7 +280,7 @@
                 <input type="text"
                        id="testPath"
                        name="testPath"
-                       value="D:\GitHub\GenerateTest\GenerateTest\src"
+                       value="D:\GitHub\GenerateTest\GenerateTest\src\test\java"
                        placeholder="예: D:\GitHub\TestGenerator\src\test\java"
                        required>
                 <div class="help-text">
